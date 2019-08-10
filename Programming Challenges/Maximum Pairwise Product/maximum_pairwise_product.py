@@ -1,6 +1,5 @@
 # python3
 
-import numpy as np
 
 
 def max_pairwise_product_naive(numbers):
